@@ -3,7 +3,7 @@ public class printtable {
         // print table
         int table=5;
         for(int i=1;i<=10;i++){
-            System.out.println(i*table);
+            System.out.println(table + "*" + i + "=" + (i*table));
         }
     }
 }

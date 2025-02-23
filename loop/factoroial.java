@@ -2,7 +2,7 @@ public class factoroial {
     public static void main(String[]args){
         
         // find factorial
-        int number =5;
+        int number =3;
         int fact =1;
         for(int i=1;i<=number;i++){
             fact =fact*i;

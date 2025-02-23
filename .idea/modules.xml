@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/18. OOPS/18. OOPS.iml" filepath="$PROJECT_DIR$/18. OOPS/18. OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resources.iml" filepath="$PROJECT_DIR$/Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apna college dsa assiment/apna college dsa assiment.iml" filepath="$PROJECT_DIR$/apna college dsa assiment/apna college dsa assiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collegejava/collegejava.iml" filepath="$PROJECT_DIR$/collegejava/collegejava.iml" />
+    </modules>
+  </component>
+</project>
