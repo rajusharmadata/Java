@@ -14,6 +14,7 @@ public class question2 {
                if(matrix[i][j] > max_value){
                 max_value = matrix[i][j];
                }
+
                 }
             }
             System.out.println("max value of This matrix :"+ max_value);
