@@ -17,8 +17,6 @@ public  class Test extends Thread{
 
             }
             System.out.println(Thread.currentThread().getName() + "-priority" + Thread.currentThread().getPriority() + "-count " + i);
-
-
         }
     }
 }
